@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "objectId": "yanyu.rules",
+  "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+  "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+  "updatedByDeviceName": "Windows \u00B7 PC-202404171031",
+  "deleted": false,
+  "payload": {
+    "yanyuRules": []
+  }
+}
