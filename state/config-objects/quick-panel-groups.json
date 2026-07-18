@@ -1,0 +1,117 @@
+{
+  "schemaVersion": 1,
+  "objectId": "quickPanel.groups",
+  "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+  "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+  "updatedByDeviceName": "Windows \u00B7 PC-202404171031",
+  "deleted": false,
+  "payload": {
+    "quickPanelSlots": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+    ],
+    "quickPanelGlobalGroups": [
+      {
+        "id": "global-default",
+        "name": "\u9ED8\u8BA4",
+        "slots": [
+          "ext_38dd538d34fd4ccea4d1e73a442859aa",
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "slotItems": [
+          {
+            "itemType": "extension",
+            "extensionId": "ext_38dd538d34fd4ccea4d1e73a442859aa",
+            "folderExtensionIds": [],
+            "folderSlotItems": [],
+            "isFolder": false,
+            "isShortcut": false
+          },
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ],
+    "quickPanelContextGroups": [
+      {
+        "id": "context-default",
+        "name": "\u9ED8\u8BA4",
+        "slots": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "slotItems": [
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null,
+          null
+        ]
+      }
+    ],
+    "selectedQuickPanelGlobalGroupId": "global-default",
+    "selectedQuickPanelContextGroupId": "context-default"
+  }
+}
