@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+  "updatedAtUtc": "2026-07-18T09:22:23.7920212Z",
   "config": {
     "schemaVersion": 2,
-    "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+    "updatedAtUtc": "2026-07-18T09:22:23.7920212Z",
     "sourceDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
     "sourceDeviceName": "Windows \u00B7 PC-202404171031",
     "isInitialDefaultConfig": false,
@@ -52,9 +52,9 @@
         "contextDisplayName": null,
         "slots": [
           "ext_38dd538d34fd4ccea4d1e73a442859aa",
-          null,
-          null,
-          null,
+          "ext_8543b14d5c474b8d98d7383bb5cab0be",
+          "ext_296466f6570746c5ae0e979b5a3713cc",
+          "ext_e17c54e22dbd44b8bc783bd00c04a110",
           null,
           null,
           null,
@@ -74,9 +74,33 @@
             "isFolder": false,
             "isShortcut": false
           },
-          null,
-          null,
-          null,
+          {
+            "itemType": "extension",
+            "extensionId": "ext_8543b14d5c474b8d98d7383bb5cab0be",
+            "folderName": null,
+            "folderExtensionIds": [],
+            "folderSlotItems": [],
+            "isFolder": false,
+            "isShortcut": false
+          },
+          {
+            "itemType": "extension",
+            "extensionId": "ext_296466f6570746c5ae0e979b5a3713cc",
+            "folderName": null,
+            "folderExtensionIds": [],
+            "folderSlotItems": [],
+            "isFolder": false,
+            "isShortcut": false
+          },
+          {
+            "itemType": "extension",
+            "extensionId": "ext_e17c54e22dbd44b8bc783bd00c04a110",
+            "folderName": null,
+            "folderExtensionIds": [],
+            "folderSlotItems": [],
+            "isFolder": false,
+            "isShortcut": false
+          },
           null,
           null,
           null,
@@ -154,9 +178,11 @@
       "marginPixels": 14,
       "rules": []
     },
-    "disabledExtensionIds": [],
+    "disabledExtensionIds": [
+      "ext_8543b14d5c474b8d98d7383bb5cab0be"
+    ],
     "pinnedSearchScopeCommandIds": [],
-    "enableAgentApi": false,
+    "enableAgentApi": true,
     "agentApiPort": 53919,
     "yarnSelect": {
       "enabled": true,
@@ -249,14 +275,14 @@
       "radiusPixels": 134,
       "dragThresholdPixels": 24,
       "slots": [
-        "app-95260033d853",
+        "ext_e17c54e22dbd44b8bc783bd00c04a110",
         "app-c48f50751be7",
-        "ext_38dd538d34fd4ccea4d1e73a442859aa",
         null,
         null,
         null,
         null,
         null,
+        "ext_296466f6570746c5ae0e979b5a3713cc",
         null,
         null,
         null,
@@ -280,14 +306,14 @@
           "id": "default",
           "name": "\u5168\u5C40",
           "slots": [
-            "app-95260033d853",
+            "ext_e17c54e22dbd44b8bc783bd00c04a110",
             "app-c48f50751be7",
-            "ext_38dd538d34fd4ccea4d1e73a442859aa",
             null,
             null,
             null,
             null,
             null,
+            "ext_296466f6570746c5ae0e979b5a3713cc",
             null,
             null,
             null,
