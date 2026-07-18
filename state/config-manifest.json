@@ -1,35 +1,35 @@
 {
   "schemaVersion": 1,
-  "revision": 1784358738152,
-  "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+  "revision": 1784366543792,
+  "updatedAtUtc": "2026-07-18T09:22:23.7920212Z",
   "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
   "updatedByDeviceName": "Windows \u00B7 PC-202404171031",
   "objects": [
     {
       "objectId": "quickPanel.favorites",
       "path": "state/config-objects/quick-panel-favorites.json",
-      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedAtUtc": "2026-07-18T09:22:23.7920212Z",
       "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
-      "sha256": "7c3ddb22af28d7409f2edf9468b964caf8089395a2b81d316772e742863da439",
-      "sizeBytes": 438,
+      "sha256": "df82b2229a6e2718a45605990b097ed494453cb0f1fdeef18880131a65347ca4",
+      "sizeBytes": 490,
       "deleted": false
     },
     {
       "objectId": "quickPanel.groups",
       "path": "state/config-objects/quick-panel-groups.json",
-      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedAtUtc": "2026-07-18T09:22:23.7920212Z",
       "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
-      "sha256": "e87d235ccce521e33931a2352417ad472db8c545cd3b8e3358fe2a25731c7e1b",
-      "sizeBytes": 2286,
+      "sha256": "8bef6bf7a4f89965ace84d4b8f0cc2a5a21da12600a4379eb43f542ae30c61b3",
+      "sizeBytes": 3156,
       "deleted": false
     },
     {
       "objectId": "radialMenu.pages",
       "path": "state/config-objects/radial-menu-pages.json",
-      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedAtUtc": "2026-07-18T09:22:23.7920212Z",
       "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
-      "sha256": "8f92a1d97b455e32598a0b6d87b1c76ac69763a3333570620359af765f756c82",
-      "sizeBytes": 3219,
+      "sha256": "b335bbc64bef17ebac7354e408b07682d2c222b2db3f27c762402747b2ffe2a2",
+      "sizeBytes": 3259,
       "deleted": false
     },
     {
@@ -44,10 +44,10 @@
     {
       "objectId": "settings.general",
       "path": "state/config-objects/settings-general.json",
-      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedAtUtc": "2026-07-18T09:22:23.7920212Z",
       "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
-      "sha256": "b5e12c9f8cd05127004d29ef44e4ada634379f222d46877fae690d96213098fb",
-      "sizeBytes": 459,
+      "sha256": "08df3235e5cfe3c3911531750720703b0fa1e2a1e7f5b7586ac4d26c97add741",
+      "sizeBytes": 458,
       "deleted": false
     },
     {
