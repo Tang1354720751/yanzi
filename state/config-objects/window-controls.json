@@ -1,0 +1,85 @@
+{
+  "schemaVersion": 1,
+  "objectId": "window.controls",
+  "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+  "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+  "updatedByDeviceName": "Windows \u00B7 PC-202404171031",
+  "deleted": false,
+  "payload": {
+    "enableWindowSnapAssist": true,
+    "windowSnapAssistCustomLayouts": [],
+    "windowBindings": {
+      "enabled": true,
+      "marginPixels": 14,
+      "rules": []
+    },
+    "yarnSelect": {
+      "enabled": true,
+      "leftCToCopy": true,
+      "leftXToCut": true,
+      "leftVToPaste": true,
+      "leftSToSearch": true,
+      "leftRToRun": true,
+      "leftRightSmartCopyPaste": true,
+      "leftSideButtonPaste": true,
+      "triggerDelayMilliseconds": 80,
+      "rules": [
+        {
+          "enabled": true,
+          "triggerKey": "C",
+          "actionType": "copy",
+          "extensionId": "",
+          "description": "\u590D\u5236\u9009\u4E2D\u5185\u5BB9"
+        },
+        {
+          "enabled": true,
+          "triggerKey": "X",
+          "actionType": "cut",
+          "extensionId": "",
+          "description": "\u526A\u5207\u9009\u4E2D\u5185\u5BB9"
+        },
+        {
+          "enabled": true,
+          "triggerKey": "V",
+          "actionType": "paste",
+          "extensionId": "",
+          "description": "\u7C98\u8D34\u5230\u5F53\u524D\u4F4D\u7F6E"
+        },
+        {
+          "enabled": true,
+          "triggerKey": "S",
+          "actionType": "search",
+          "extensionId": "",
+          "description": "\u590D\u5236\u9009\u4E2D\u5185\u5BB9\u5E76\u641C\u7D22"
+        },
+        {
+          "enabled": true,
+          "triggerKey": "R",
+          "actionType": "run",
+          "extensionId": "",
+          "description": "\u8FD0\u884C\u9009\u4E2D\u5185\u5BB9"
+        },
+        {
+          "enabled": true,
+          "triggerKey": "Right",
+          "actionType": "smart_copy_paste",
+          "extensionId": "",
+          "description": "\u667A\u80FD\u590D\u5236/\u7C98\u8D34"
+        },
+        {
+          "enabled": true,
+          "triggerKey": "X1",
+          "actionType": "paste",
+          "extensionId": "",
+          "description": "\u4FA7\u952E\u7C98\u8D34"
+        }
+      ],
+      "whitelistedProcesses": [],
+      "blacklistedProcesses": [
+        "Photoshop",
+        "Maya",
+        "Blender"
+      ]
+    }
+  }
+}
