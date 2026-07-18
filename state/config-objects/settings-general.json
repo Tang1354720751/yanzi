@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "objectId": "settings.general",
-  "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+  "updatedAtUtc": "2026-07-18T09:22:23.7920212Z",
   "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
   "updatedByDeviceName": "Windows \u00B7 PC-202404171031",
   "deleted": false,
@@ -10,7 +10,7 @@
     "launchAtStartup": false,
     "refreshCloudOnStartup": true,
     "closeToTray": true,
-    "enableAgentApi": false,
+    "enableAgentApi": true,
     "agentApiPort": 53919
   }
 }
