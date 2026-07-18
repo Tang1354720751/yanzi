@@ -1,0 +1,53 @@
+{
+  "schemaVersion": 1,
+  "items": [
+    {
+      "extensionId": "ext_38dd538d34fd4ccea4d1e73a442859aa",
+      "title": "\u6253\u5F00\u767E\u5EA6",
+      "category": "\u6269\u5C55",
+      "version": "0.1.0",
+      "packageHash": "974948c418b85e71321fe34641a3412abd53b8628a12ab7c6e7686a015100a2f",
+      "packagePath": "packages/ext_38dd538d34fd4ccea4d1e73a442859aa/974948c418b85e71321fe34641a3412abd53b8628a12ab7c6e7686a015100a2f.zip",
+      "updatedAtUtc": "2026-07-18T06:48:59.3151404\u002B00:00",
+      "deleted": false,
+      "purged": false,
+      "localDeletionPending": false
+    },
+    {
+      "extensionId": "web-search-baidu",
+      "title": "\u767E\u5EA6\u641C\u7D22",
+      "category": "\u7F51\u9875\u641C\u7D22",
+      "version": "1.0.0",
+      "packageHash": "6504fac93cfcc3e67e7030f254dbed883eda4dbe0c02d1589cdbd96e32b90e64",
+      "packagePath": "packages/web-search-baidu/6504fac93cfcc3e67e7030f254dbed883eda4dbe0c02d1589cdbd96e32b90e64.zip",
+      "updatedAtUtc": "2026-07-18T05:56:25.2307406\u002B00:00",
+      "deleted": false,
+      "purged": false,
+      "localDeletionPending": false
+    },
+    {
+      "extensionId": "web-search-bing",
+      "title": "Bing \u641C\u7D22",
+      "category": "\u7F51\u9875\u641C\u7D22",
+      "version": "1.0.0",
+      "packageHash": "ede93d272f158b7d2a66a182a47101f252bf1258e161008e46a9f5db3bfe529d",
+      "packagePath": "packages/web-search-bing/ede93d272f158b7d2a66a182a47101f252bf1258e161008e46a9f5db3bfe529d.zip",
+      "updatedAtUtc": "2026-07-18T05:56:25.2307406\u002B00:00",
+      "deleted": false,
+      "purged": false,
+      "localDeletionPending": false
+    },
+    {
+      "extensionId": "web-search-google",
+      "title": "\u8C37\u6B4C\u641C\u7D22",
+      "category": "\u7F51\u9875\u641C\u7D22",
+      "version": "1.0.0",
+      "packageHash": "766fdeb59fea00153d70f5e400f1e47778c428c2c00fa3adcc7a5b6f115c1349",
+      "packagePath": "packages/web-search-google/766fdeb59fea00153d70f5e400f1e47778c428c2c00fa3adcc7a5b6f115c1349.zip",
+      "updatedAtUtc": "2026-07-18T05:56:25.2307406\u002B00:00",
+      "deleted": false,
+      "purged": false,
+      "localDeletionPending": false
+    }
+  ]
+}
