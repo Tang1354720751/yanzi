@@ -2,6 +2,18 @@
   "schemaVersion": 1,
   "items": [
     {
+      "extensionId": "ext_296466f6570746c5ae0e979b5a3713cc",
+      "title": "\u641C\u7D22\u914D\u6599\u8868",
+      "category": "\u811A\u672C",
+      "version": "0.1.0",
+      "packageHash": "871c963aa24e8f725263071a81a63c48a31fc71f4981b327bc82c53fab4e4f89",
+      "packagePath": "packages/ext_296466f6570746c5ae0e979b5a3713cc/871c963aa24e8f725263071a81a63c48a31fc71f4981b327bc82c53fab4e4f89.zip",
+      "updatedAtUtc": "2026-07-18T09:21:11.1155816\u002B00:00",
+      "deleted": false,
+      "purged": false,
+      "localDeletionPending": false
+    },
+    {
       "extensionId": "ext_38dd538d34fd4ccea4d1e73a442859aa",
       "title": "\u6253\u5F00\u767E\u5EA6",
       "category": "\u6269\u5C55",
@@ -9,6 +21,30 @@
       "packageHash": "974948c418b85e71321fe34641a3412abd53b8628a12ab7c6e7686a015100a2f",
       "packagePath": "packages/ext_38dd538d34fd4ccea4d1e73a442859aa/974948c418b85e71321fe34641a3412abd53b8628a12ab7c6e7686a015100a2f.zip",
       "updatedAtUtc": "2026-07-18T06:48:59.3151404\u002B00:00",
+      "deleted": false,
+      "purged": false,
+      "localDeletionPending": false
+    },
+    {
+      "extensionId": "ext_8543b14d5c474b8d98d7383bb5cab0be",
+      "title": "PowerShell \u793A\u4F8B",
+      "category": "\u811A\u672C",
+      "version": "0.1.0",
+      "packageHash": "bda8ea8241075c8ee564867bef0ff0651ea0a8132de3041226d5fb448809fda1",
+      "packagePath": "packages/ext_8543b14d5c474b8d98d7383bb5cab0be/bda8ea8241075c8ee564867bef0ff0651ea0a8132de3041226d5fb448809fda1.zip",
+      "updatedAtUtc": "2026-07-18T09:04:01.6296760\u002B00:00",
+      "deleted": false,
+      "purged": false,
+      "localDeletionPending": false
+    },
+    {
+      "extensionId": "ext_e17c54e22dbd44b8bc783bd00c04a110",
+      "title": "\u6309\u8D27\u54C1\u7F16\u7801\u83B7\u53D6\u914D\u6599\u8868",
+      "category": "\u811A\u672C",
+      "version": "0.1.0",
+      "packageHash": "909a7c26289d837bf927fa61b2018aed9bc62620b9f7f6cd979a3f2f3baf98ea",
+      "packagePath": "packages/ext_e17c54e22dbd44b8bc783bd00c04a110/909a7c26289d837bf927fa61b2018aed9bc62620b9f7f6cd979a3f2f3baf98ea.zip",
+      "updatedAtUtc": "2026-07-18T09:21:19.8355077\u002B00:00",
       "deleted": false,
       "purged": false,
       "localDeletionPending": false
