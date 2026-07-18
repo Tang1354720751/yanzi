@@ -1,0 +1,99 @@
+{
+  "schemaVersion": 1,
+  "revision": 1784358738152,
+  "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+  "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+  "updatedByDeviceName": "Windows \u00B7 PC-202404171031",
+  "objects": [
+    {
+      "objectId": "quickPanel.favorites",
+      "path": "state/config-objects/quick-panel-favorites.json",
+      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+      "sha256": "7c3ddb22af28d7409f2edf9468b964caf8089395a2b81d316772e742863da439",
+      "sizeBytes": 438,
+      "deleted": false
+    },
+    {
+      "objectId": "quickPanel.groups",
+      "path": "state/config-objects/quick-panel-groups.json",
+      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+      "sha256": "e87d235ccce521e33931a2352417ad472db8c545cd3b8e3358fe2a25731c7e1b",
+      "sizeBytes": 2286,
+      "deleted": false
+    },
+    {
+      "objectId": "radialMenu.pages",
+      "path": "state/config-objects/radial-menu-pages.json",
+      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+      "sha256": "8f92a1d97b455e32598a0b6d87b1c76ac69763a3333570620359af765f756c82",
+      "sizeBytes": 3219,
+      "deleted": false
+    },
+    {
+      "objectId": "settings.ai",
+      "path": "state/config-objects/settings-ai.json",
+      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+      "sha256": "07f5a0ab74e81b580ce4619afe202e7c9d4fab5a23fd1deb3f809e7df5ef5225",
+      "sizeBytes": 16375,
+      "deleted": false
+    },
+    {
+      "objectId": "settings.general",
+      "path": "state/config-objects/settings-general.json",
+      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+      "sha256": "b5e12c9f8cd05127004d29ef44e4ada634379f222d46877fae690d96213098fb",
+      "sizeBytes": 459,
+      "deleted": false
+    },
+    {
+      "objectId": "settings.hotkeys",
+      "path": "state/config-objects/settings-hotkeys.json",
+      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+      "sha256": "26ebdf637f3c2426aee4ecc57780ebc03c612be43a5092ee851836c53fdce991",
+      "sizeBytes": 358,
+      "deleted": false
+    },
+    {
+      "objectId": "settings.mouseTriggers",
+      "path": "state/config-objects/settings-mouse-triggers.json",
+      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+      "sha256": "4a7315a03cb50129d754ad688dbb0b5b1eed81da463e049738c1b0695a9b5ac2",
+      "sizeBytes": 946,
+      "deleted": false
+    },
+    {
+      "objectId": "window.controls",
+      "path": "state/config-objects/window-controls.json",
+      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+      "sha256": "476551fb802ed39cceb5f516336a0857c798cd067495073776bab55bd4279af8",
+      "sizeBytes": 2429,
+      "deleted": false
+    },
+    {
+      "objectId": "yanm.layout",
+      "path": "state/config-objects/yanm-layout.json",
+      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+      "sha256": "2b99af2c0e44c3c31e3f9304fef35c12b222fa6145fbe19a0d4606539e8eb210",
+      "sizeBytes": 61050,
+      "deleted": false
+    },
+    {
+      "objectId": "yanyu.rules",
+      "path": "state/config-objects/yanyu-rules.json",
+      "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+      "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+      "sha256": "6356d3afa6ee1f5689c81e3be31cc364115bcc153cbb2fdb919ee5e15945308b",
+      "sizeBytes": 300,
+      "deleted": false
+    }
+  ]
+}
