@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "objectId": "settings.mouseTriggers",
+  "updatedAtUtc": "2026-07-18T07:12:18.1527870Z",
+  "updatedByDeviceId": "desktop-b5afc9d2b4ab444da2012abd5e37f3a1",
+  "updatedByDeviceName": "Windows \u00B7 PC-202404171031",
+  "deleted": false,
+  "payload": {
+    "quickPanelTrigger": "MiddleButtonLongPress",
+    "quickPanelMouseTriggers": {
+      "middleButtonDown": false,
+      "x1ButtonDown": false,
+      "x2ButtonDown": false,
+      "ctrlLeftClick": false,
+      "ctrlRightClick": false,
+      "ctrlMiddleClick": false,
+      "middleButtonLongPress": false,
+      "rightButtonLongPress": false,
+      "rightButtonDrag": false,
+      "middleButtonDrag": false,
+      "horizontalWheel": false,
+      "executeOnButtonRelease": true,
+      "longPressMilliseconds": 350,
+      "dragThresholdPixels": 26
+    },
+    "mouseGestureTriggerMode": "None",
+    "windowSnapAssistMouseTriggerMode": "None"
+  }
+}
